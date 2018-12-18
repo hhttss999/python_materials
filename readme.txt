@@ -1,5 +1,8 @@
-1£ºÕâÊÇ¸öPython¼¼ÊõÎÄÕÂµÄÊÕ¼¯£¬·­ÒëµÄGitÔ´µÄdoc
+1ï¿½ï¿½ï¿½ï¿½ï¿½Ç¸ï¿½Pythonï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Âµï¿½ï¿½Õ¼ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½GitÔ´ï¿½ï¿½doc
 https://pyzh.readthedocs.io/en/latest/index.html
 
-2£ºpythonÖªÊ¶µã×Ü½á
+2ï¿½ï¿½pythonÖªÊ¶ï¿½ï¿½ï¿½Ü½ï¿½
 https://github.com/hhttss999/interview_python
+
+3ï¼šç¾å›¢æ–‡ç« 
+https://tech.meituan.com/archives
