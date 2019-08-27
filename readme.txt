@@ -12,3 +12,6 @@ https://tech.meituan.com/archives
 
 5:python 面试：
 https://www.cnblogs.com/wj-1314/tag/python%20%E7%AE%97%E6%B3%95%E4%B8%8E%E9%9D%A2%E8%AF%95%E7%AC%94%E8%AF%95%E9%A2%98/
+
+6：计算机网络：
+https://www.cnblogs.com/inception6-lxc/p/9152691.html
